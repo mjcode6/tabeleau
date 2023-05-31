@@ -1,0 +1,15 @@
+C:\Users\mjsiv\Desktop\tableau\bin\Debug\net7.0\tableau.exe
+C:\Users\mjsiv\Desktop\tableau\bin\Debug\net7.0\tableau.deps.json
+C:\Users\mjsiv\Desktop\tableau\bin\Debug\net7.0\tableau.runtimeconfig.json
+C:\Users\mjsiv\Desktop\tableau\bin\Debug\net7.0\tableau.dll
+C:\Users\mjsiv\Desktop\tableau\bin\Debug\net7.0\tableau.pdb
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.csproj.AssemblyReference.cache
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.AssemblyInfoInputs.cache
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.AssemblyInfo.cs
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.csproj.CoreCompileInputs.cache
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.dll
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\refint\tableau.dll
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.pdb
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\tableau.genruntimeconfig.cache
+C:\Users\mjsiv\Desktop\tableau\obj\Debug\net7.0\ref\tableau.dll
